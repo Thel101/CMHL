@@ -1,0 +1,30 @@
+﻿@model List<SkillSet>
+@{
+    ViewData["Title"] = "Skill Index";
+}
+
+<h2>Index</h2>
+<a asp-action="Create" class="btn btn-success">Register New SkillSet</a>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Skill</th>
+            <th scope="col">Description</th>
+       
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model)
+        {
+            <tr>
+                <td>@s.Name</td>
+                <td>@s.Description</td>
+              
+            </tr>
+        }
+
+    </tbody>
+</table>
+
+

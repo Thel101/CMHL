@@ -1,0 +1,33 @@
+﻿@model List<DeveloperNoteRecord.Models.Developer>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+<a asp-action="Create" class="btn btn-success">Register New Developer</a>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Age</th>
+            <th scope="col">Gender</th>
+            <th scope="col">Type</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+        <tr>
+            <td>@d.Name</td>
+            <td>@d.Age</td>
+            <td>@d.Gender</td>
+            <td>@d.Type</td>
+                
+        </tr>
+        }
+
+    </tbody>
+</table>
+
+

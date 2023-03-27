@@ -1,0 +1,26 @@
+@model List<Notes>
+
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">Developer</th>
+            <th scope="col">Title</th>
+            <th scope="col">Content</th>
+            <th scope="col">Created Date</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+        <tr>
+            <td>@d.Developer.Name</td>
+            <td>@d.Title</td>
+            <td>@d.Content</td>
+            <td>@d.CreatedDate</td>
+                
+        </tr>
+        }
+
+    </tbody>
+</table>
