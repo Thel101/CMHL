@@ -1,0 +1,15 @@
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/bin/Debug/net6.0/LinqDemo
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/bin/Debug/net6.0/LinqDemo.deps.json
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/bin/Debug/net6.0/LinqDemo.runtimeconfig.json
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/bin/Debug/net6.0/LinqDemo.dll
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/bin/Debug/net6.0/LinqDemo.pdb
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/LinqDemo.csproj.AssemblyReference.cache
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/LinqDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/LinqDemo.AssemblyInfoInputs.cache
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/LinqDemo.AssemblyInfo.cs
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/LinqDemo.csproj.CoreCompileInputs.cache
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/LinqDemo.dll
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/refint/LinqDemo.dll
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/LinqDemo.pdb
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/LinqDemo.genruntimeconfig.cache
+/Users/pttk_snow/Projects/LinqDemo/LinqDemo/obj/Debug/net6.0/ref/LinqDemo.dll
